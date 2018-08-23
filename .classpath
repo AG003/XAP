@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/commons-collections4-4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/curvesapi-1.04.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-examples-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-excelant-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-ooxml-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/poi-scratchpad-3.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/bson-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/extentreports-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/freemarker-2.3.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/httpmime-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/jsoup-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/mongodb-driver-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cobertura-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cucumber-core-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cucumber-java-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cucumber-junit-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/gherkin-2.12.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="jarfiles/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
